@@ -44,7 +44,7 @@
     "@edx/paragon": "12.0.5",
     "codecov": "3.7.2",
     "enzyme": "3.10.0",
-    "enzyme-adapter-react-16": "1.14.0",
+    "enzyme-adapter-react-16": "1.15.6",
     "husky": "3.0.9",
     "prop-types": "15.7.2",
     "react": "16.9.0",
